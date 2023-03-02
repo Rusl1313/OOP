@@ -1,6 +1,7 @@
 public class Cat {
-        public void sayHello() {
+    public static class Cat_ {
+        public static void sayHello() {
             System.out.println("Мяу");
         }
-
+    }
 }
